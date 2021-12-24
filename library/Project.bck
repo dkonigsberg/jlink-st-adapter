@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_JLink
+D Generic connector, double row, 02x10, odd/even pin numbering labeled for Segger J-Link usage
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_ST_STDC14
+D ST Debug Connector, standard ARM Cortex-M SWD and JTAG interface plus UART
+K ST STM32 Cortex Debug Connector ARM SWD JTAG
+F https://www.st.com/content/ccc/resource/technical/document/user_manual/group1/99/49/91/b6/b2/3a/46/e5/DM00526767/files/DM00526767.pdf/jcr:content/translations/en.DM00526767.pdf
+$ENDCMP
+#
+#End Doc Library
